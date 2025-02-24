@@ -1,4 +1,5 @@
 import { ROUTES } from "@/constants/routes";
+import "leaflet/dist/leaflet.css";
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import MapView from "./components/MapView";
